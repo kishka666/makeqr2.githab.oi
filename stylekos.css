@@ -1,0 +1,311 @@
+.text1{
+
+    position: absolute;
+    width: 534px;
+    height: 45px;
+    left: 720px;
+    top: 10px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #000000;
+
+}
+
+.text2{
+
+    position: absolute;
+    width: 317px;
+    height: 45px;
+    left: 801px;
+    top: 50px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #000000;
+
+}
+
+.bt1{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 289px;
+    height: 61px;
+    left: 404px;
+    top: 171px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+.bt1:hover{
+    background: #D9D9D9; }
+
+.bt2{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 289px;
+    height: 61px;
+    left: 1227px;
+    top: 171px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+.bt2:hover{
+    background: #D9D9D9; }
+
+.logo{
+
+    position: absolute;
+    width: 355px;
+    height: 217px;
+    left: -66px;
+    top: 10px;
+
+}
+
+.picture1{
+
+    position: absolute;
+    width: 613px;
+    height: 406px;
+    left: 1000px;
+    top: 400px;
+
+}
+
+.txt1{
+    
+    position: absolute;
+    width: 964px;
+    height: 356px;
+    left: 360px;
+    top: 270px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #000000;
+
+}
+
+
+
+
+
+footer{
+
+    position: absolute;
+    width: 1871px;
+    height: 100px;
+    left: 0px;
+    top: 864px;
+
+    background: #D9D9D9;
+
+}
+
+.tel{
+
+    position: absolute;
+
+    left: 10px;
+    top: 30px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.text3{
+
+    position: absolute;
+
+    left: 770px;
+    top: 30px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #000000;
+    
+}
+
+.text4{
+
+    position: absolute;
+    width: 756px;
+    height: 286px;
+    left: 179px;
+    top: 270px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.text5{
+
+    position: absolute;
+    width: 684px;
+    height: 419px;
+    left: 1030px;
+    top: 398px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+
+    color: #000000;
+    
+}
+
+.picture2{
+
+    position: absolute;
+    width: 444px;
+    height: 307px;
+    left: 313px;
+    top: 550px;
+  
+}
+
+.text6{
+
+    position: absolute;
+    width: 534px;
+    height: 45px;
+    left: 730px;
+    top: 10px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #000000;
+
+}
+
+.text7{
+
+    position: absolute;
+    width: 104px;
+    height: 45px;
+    left: 908px;
+    top: 50px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #000000;
+
+}
+
+.text8{
+
+    position: absolute;
+    width: 534px;
+    height: 45px;
+    left: 725px;
+    top: 10px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #000000;
+    
+}
+
+.text9{
+
+    position: absolute;
+    width: 303px;
+    height: 45px;
+    left: 810px;
+    top: 50px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #000000;
+
+}
+
+.text10{
+
+    position: absolute;
+    width: 819px;
+    height: 45px;
+    left: 169px;
+    top: 250px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #000000;
+
+}
