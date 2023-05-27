@@ -172,6 +172,42 @@ footer{
     
 }
 
+.tel1{
+
+    position: absolute;
+
+    left: 10px;
+    top: 60px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.text31{
+
+    position: absolute;
+
+    left: 770px;
+    top: 60px;
+
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #000000;
+    
+}
+
 .text4{
 
     position: absolute;
